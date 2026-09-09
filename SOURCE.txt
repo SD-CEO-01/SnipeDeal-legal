@@ -1,7 +1,7 @@
 SnipeDeal static compliance site
 Mirrors legal/compliance source from private SnipeDeal main commit:
-bcbd5588b14cb98f4379328a4430ec5235c37dbe
-Prepared: 2026-09-09
+c359d77d4ed2f5d2ae869c6a567a4fb67513a746
+Prepared: 2026-09-10
 
 Privacy source: src/app/(custom)/privacy/page.tsx
 Terms source: src/app/(custom)/terms/page.tsx
