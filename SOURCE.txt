@@ -1,0 +1,10 @@
+SnipeDeal static compliance site
+Mirrors legal/compliance source from private SnipeDeal main commit:
+bcbd5588b14cb98f4379328a4430ec5235c37dbe
+Prepared: 2026-09-09
+
+Privacy source: src/app/(custom)/privacy/page.tsx
+Terms source: src/app/(custom)/terms/page.tsx
+Disclosure source: src/app/(custom)/disclosure/page.tsx
+
+Static hosting note: the Privacy Policy discloses GitHub Pages as a possible host for the static legal, privacy, disclosure and support copy.
